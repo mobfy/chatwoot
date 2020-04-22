@@ -3,7 +3,7 @@
     "TITLE": "Login to Chatwoot",
     "EMAIL": {
       "LABEL": "Email",
-      "PLACEHOLDER": "Email eg: someone@example.com"
+      "PLACEHOLDER": "e-mail eg: someone@example.com"
     },
     "PASSWORD": {
       "LABEL": "Password",
