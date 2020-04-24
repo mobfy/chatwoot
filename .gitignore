@@ -27,7 +27,7 @@ node_modules
 *.rdb
 
 # Ignore env files
-#.env
+.env
 
 public/uploads
 public/packs*
