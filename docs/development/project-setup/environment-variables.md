@@ -110,7 +110,7 @@ You can fine tune these settings using the following environment variables
 
 ```bash
 # possible values: 'debug', 'info', 'warn', 'error', 'fatal' and 'unknown'
-LOG_LEVEL=
+LOG_LEVEL=debug
 # value in megabytes
 LOG_SIZE= 1024
 ```
